@@ -22,7 +22,7 @@ li {
 #search-results,
 #city-detail,
 .card {
-  background-color: #a4b0df!important;
+  background-color: #6881f3;
 }
 
 #search-results {
@@ -34,7 +34,7 @@ li {
 }
 
 #search-history li {
-  background-color: #5c7ff3;
+  background-color: #6881f3;
   color: #1b1b1f!important;
 }
 
