@@ -21,3 +21,5 @@ N/A
 ## License
 
 MIT License
+
+![](./Weather%20Forecast.gif)
